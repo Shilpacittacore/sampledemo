@@ -18,6 +18,11 @@
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
+  <tr>
+    <th>Cittacore</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
 </table>
 
 </aura:component>
